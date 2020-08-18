@@ -7,14 +7,23 @@ body {
 
 h1 {
   font-size: 46px;
-  font-family: "Roboto", sans-serif;
-  font-weight: 200;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
 }
 h2 {
   font-size: 24px;
 }
 h3 {
   font-size: 20px;
+  font-weight: 500;
+}
+
+.main-text {
+  grid-area: main-text;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  margin: 2em;
+  overflow: auto;
 }
 
 .main-container {
@@ -84,13 +93,6 @@ a {
   grid-template-areas:
     "navigation-bar"
     "main-text";
-}
-
-.main-text {
-  grid-area: main-text;
-  font-family: "Share Tech Mono", monospace;
-  margin: 2em;
-  overflow: auto;
 }
 
 .prompts {
