@@ -1,0 +1,13 @@
+<h2> <span class="userConsole"> ~/vrish </span> <span class="prompts"> >> </span> <span class = "page-title"> Projects </span> </h2>
+Here's a list of my most recent projects. You can find these and many, many more on my <a href = "https://www.GitHub.com/vr1sh" target="_blank" class="websites"> GitHub. </a>
+
+<h3 class = "project-working"> Pyscal (in progress): </h3> Pyscal is an interpreter for the Pascal programming language from the 70's, made with Python.
+
+<h3 class = "project-completed"> microBlog: </h3> I couldn't come up with a name. It is a micro blogging platform written in Python with Flask. 
+
+<h3 class = "project-completed"> Chip-8: </h3> A completely functional Chip-8 emulator written in Python. You can write your own classic with it.
+
+<h3 class = "project-completed"> rOSt: </h3> A minimal operating system written in Rust (rust, OS...rOSt... get it? I am very funny).
+
+<h3 class = "project-completed"> newbChain: </h3> A basic BlockChain implementation. It is written in Java. I plan to add wallets and transactions in the future. 
+
