@@ -83,7 +83,7 @@ var Typer = {
   },
 };
 
-Typer.speed = 10;
+Typer.speed = 7;
 Typer.file = "about"; // add your own name here
 Typer.init();
 
