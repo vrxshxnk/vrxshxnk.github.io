@@ -41,6 +41,7 @@ h3 {
 
 .navigation-bar {
   grid-area: navigation-bar;
+  font-family: "Roboto", sans-serif;
   border-radius: 10px 10px 0 0;
   border-bottom: 1px solid #c1c1c1;
   display: flex;
