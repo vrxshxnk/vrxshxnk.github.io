@@ -5,7 +5,7 @@ Here's a list of my most recent projects. You can find these and many, many more
 
 <h3 class = "project-completed"> microBlog: </h3> I couldn't come up with a name. It is a micro blogging platform written in Python with Flask. 
 
-<h3 class = "project-completed"> Chip-8: </h3> A completely functional Chip-8 emulator written in Python. You can write your own classic with it.
+<h3 class = "project-completed"> Chip-8: </h3> A completely functional Chip-8 emulator written in Rust. You can write your own classic with it.
 
 <h3 class = "project-completed"> rOSt: </h3> A minimal operating system written in Rust (rust, OS...rOSt... get it? I am very funny).
 
