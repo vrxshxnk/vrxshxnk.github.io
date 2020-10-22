@@ -9,4 +9,4 @@ Here's a list of my most recent projects. You can find these and many, many more
 
 <h3 class = "project-completed"> Chip-8: </h3> A functional Chip-8 emulator written in JavaScript. You can write your own classic game with it.
 
-<h3 class = "project-completed"> newbChain: </h3> A basic BlockChain implementation. It is written in Java. I plan to add wallets and transactions in the future. 
+<h3 class = "project-completed"> simpleChain: </h3> A basic BlockChain implementation. It is written in Java. I plan to add wallets and transactions in the future. 
