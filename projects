@@ -1,11 +1,11 @@
 <h2> <span class="userConsole"> ~/vrish </span> <span class="prompts"> >> </span> <span class = "page-title"> Projects </span> </h2>
 Here's a list of my most recent projects. You can find these and many, many more on my <a href = "https://www.GitHub.com/vr1sh" target="_blank" class="websites"> GitHub. </a>
 
-<h3 class = "project-working"> microBlog (in progress): </h3> I couldn't come up with a name yet. It is a micro blogging platform written in Python with Flask.
+<h3 class = "project-working"> microBlog (in progress): </h3> I couldn't come up with a name yet. It is a micro-blogging platform written in Python with Flask.
 
 <h3 class = "project-completed"> Coronavirus Tracker: </h3> A tracker for the number of COVID-19 cases worldwide. It is written in Java with Spring framework.
 
-<h3 class = "project-completed"> Space Invaders, Flappy Bird, Pong: </h3> I have re-made a lot of games with Python and PyGame including these titles. I am also presently working on my own platformer game, but in Godot.
+<h3 class = "project-completed"> Space Invaders, Flappy Bird, Pong: </h3> I have re-made a lot of games with Python and PyGame including these titles. I am also presently working on my own platformer game, in Godot.
 
 <h3 class = "project-completed"> Chip-8: </h3> A functional Chip-8 emulator written in JavaScript. You can write your own classic game with it.
 
